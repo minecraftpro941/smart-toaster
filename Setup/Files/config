@@ -15,7 +15,7 @@ advanced_toast = n
 os = Ubuntu Linux
 
 //What version of the operating system is the toaster running?
-os_version =
+os_version = 16.04
 
 //Operating system addons (like FTP) are located here.
 os_addons = 1000;1001;1002;1003;1004;1005;1006;1007;1008;1009;1010
