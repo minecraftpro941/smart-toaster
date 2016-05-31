@@ -41,5 +41,5 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""| {======
 //Overclocks the system. (y/n)
 overclock = n
 
-//Deletes everything. [!]WILL NOT START REINSTALL PROCESS[!] (y/n)
+//Deletes everything. [!]WILL NOT START REINSTALL PROCESS[!] (y/n) (We think it leavs a black void.)
 chara_mode = n
