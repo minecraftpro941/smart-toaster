@@ -10,6 +10,21 @@ force_update_check = n
 
 //Activates the advanced settings. (y/n)
 advanced_toast = n
+
+//What operating system is the smart toaster on?
+os = Ubuntu Linux
+
+//What version of the operating system is the toaster running?
+os_version =
+
+//Operating system addons (like FTP) are located here.
+os_addons = 1000;1001;1002;1003;1004;1005;1006;1007;1008;1009;1010
+
+//Reinstall smart toaster.
+reinstall_just_toast = n
+
+//Reinstall operating system and smart toaster.
+reinstall_everything = n
    ___       _                                               _              ___                       __     _      __ _
   /   \   __| |   __ __   __ _    _ _      __      ___    __| |     o O O  / __|    ___    _ _       / _|   (_)    / _` |
   | - |  / _` |   \ V /  / _` |  | ' \    / _|    / -_)  / _` |    o      | (__    / _ \  | ' \     |  _|   | |    \__, |
